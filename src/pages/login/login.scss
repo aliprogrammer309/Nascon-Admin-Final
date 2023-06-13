@@ -1,0 +1,60 @@
+.login {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    input {
+      width: 200px;
+      height: 30px;
+      margin: 10px;
+    }
+
+    button {
+      width: 200px;
+      height: 30px;
+      border: none;
+      background-color: purple;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    span {
+      font-size: 12px;
+      color: red;
+      margin-top: 10px;
+    }
+  }
+}
+
+.ask-login-main {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+.ask-login-container {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  button {
+    width: 150px;
+    height: 100px;
+    border: none;
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: x-large;
+    &:hover{
+      box-shadow: 0 12px 18px rgba(0, 0, 0, 0.26);
+    }
+  }
+}
