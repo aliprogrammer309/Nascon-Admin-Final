@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nascon-Admin-Final/static/css/main.6383836f.css",
+    "main.js": "/Nascon-Admin-Final/static/js/main.0e6d7346.js",
+    "static/media/reputation.svg": "/Nascon-Admin-Final/static/media/reputation.80f29d881ce794e5d6383270d7596a79.svg",
+    "static/media/social.svg": "/Nascon-Admin-Final/static/media/social.103fb90a409dfe7a529948a906848ad0.svg",
+    "static/media/opportunities.svg": "/Nascon-Admin-Final/static/media/opportunities.0549f557c0dd159f0204283ad5920707.svg",
+    "index.html": "/Nascon-Admin-Final/index.html",
+    "static/media/happiness.svg": "/Nascon-Admin-Final/static/media/happiness.98f5491eb23b7915a5fc96c473e9834d.svg",
+    "static/media/facilities.svg": "/Nascon-Admin-Final/static/media/facilities.4a1034ca0fa2eeedc312d7941605e58f.svg",
+    "static/media/clubs.svg": "/Nascon-Admin-Final/static/media/clubs.f21e9908847ed00fa855ef9938d9aeb1.svg",
+    "static/media/safety.svg": "/Nascon-Admin-Final/static/media/safety.edad5cfd14e92f9290e9b215616d6017.svg",
+    "static/media/location.svg": "/Nascon-Admin-Final/static/media/location.d112fb8719700774d9062a6b88a68810.svg",
+    "static/media/food.svg": "/Nascon-Admin-Final/static/media/food.091218bfe37acf5cf0a97aec48d93daa.svg",
+    "static/media/internet.svg": "/Nascon-Admin-Final/static/media/internet.d0abee892d122eed94e109148ac5b65d.svg",
+    "main.6383836f.css.map": "/Nascon-Admin-Final/static/css/main.6383836f.css.map",
+    "main.0e6d7346.js.map": "/Nascon-Admin-Final/static/js/main.0e6d7346.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6383836f.css",
+    "static/js/main.0e6d7346.js"
+  ]
+}
